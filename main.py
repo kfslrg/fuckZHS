@@ -210,7 +210,7 @@ if not cookies_loaded:
                 showImage, show_in_terminal=show_in_terminal, ensure_unicode=ensure_unicode)
             fucker.login(use_qr=True, qr_callback=callback)
         else:
-            fucker.login(username, password)
+            fucker.login(17805840302, Mjk/200607247712)
         print("Login Successful\n")
         if save_cookies:
             with open(cookies_path, 'w') as f:
